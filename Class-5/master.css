@@ -1,0 +1,47 @@
+
+.p-one {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+  line-height: 35px;
+  letter-spacing: normal;
+
+}
+.p-two {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+  line-height: 35px;
+  letter-spacing: normal;
+
+}
+.p-three {
+  /*font-family: 'Georgia', sans-serif;*/
+  font-size: 13;
+  font-weight: normal;
+  list-style: 12px;
+  letter-spacing: 30px;
+}
+div {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.a-one {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+.a-one:hover {
+  color: red;
+  font-weight: normal;
+  text-decoration: overline;
+}
+.a-two {
+  font-size: 40px;
+  color: purple;
+}
+.a-two:active {
+  font-size: 10px;
+}
